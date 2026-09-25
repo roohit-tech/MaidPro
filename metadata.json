@@ -1,0 +1,6 @@
+{
+  "name": "MaidPro - Domestic Service Provider & Admin Platform",
+  "description": "Mobile app for domestic service providers (maids, cooks, babysitters, elderly care, helpers) with job requests, attendance tracking, earnings, recurring bookings, and comprehensive admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
